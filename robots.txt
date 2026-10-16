@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://fouad-s-portfolio.netlify.app/sitemap.xml
