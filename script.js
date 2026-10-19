@@ -42,7 +42,11 @@ copy.fr.bohoType = 'Café';
 copy.en.gymType = 'Fitness studio';
 copy.fr.gymType = 'Salle de sport';
 copy.en.viewDemo = 'View live demo <span>↗</span>';
-copy.fr.viewDemo = 'Voir la démo <span>↗</span>';
+copy.fr.viewDemo = 'D&eacute;mo en ligne <span>↗</span>';
+copy.en.viewSource = 'Source';
+copy.fr.viewSource = 'Code source';
+copy.en.githubRepo = 'View source ↗';
+copy.fr.githubRepo = 'Voir le code ↗';
 
 let language = 'en';
 const langButton = document.querySelector('.language-button');
